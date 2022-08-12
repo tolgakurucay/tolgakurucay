@@ -2,10 +2,10 @@
 I graduated at BAIBU as a computer engineer. I've been developing native android application using Kotlin and Java for over a year. I am using MVVM, Coroutines, RxJava, Retrofit, Dependency Injection(Dagger, Hilt), Livedata, Kotlin Flows,Navigation, Firebase, Room, Databinding, Viewbinding, Google Pay, Push notification, other jetpack and 3'rd party libraries in my projects.
 
 - 👀 I’m interested in
-Coding, swimming, walking etc..
+coding, swimming, walking etc..
 
 - 🌱 I’m currently learning
-Creating android applications better than before.
+creating android applications better than before.
 
 - 📫 How to reach me 
 tolgakurucay1446@gmail.com

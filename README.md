@@ -1,13 +1,22 @@
 - 👋 Hi, I’m @tolgakurucay
-I'm studying computer engineering at AIBU in Turkey
+I graduated at BAIBU as a computer engineer. I've been developing native android application using Kotlin and Java for over a year. I am using MVVM, Coroutines, RxJava, Retrofit, Dependency Injection(Dagger, Hilt), Livedata, Kotlin Flows,Navigation, Firebase, Room, Databinding, Viewbinding, Google Pay, Push notification, other jetpack and 3'rd party libraries in my projects.
+
 - 👀 I’m interested in ...
-Android native programming using kotlin, C# windows application softwares,Arduino,Sql Server,Oracle, PostgreSQL, Sqlite
+Coding, swimming, walking etc..
+
 - 🌱 I’m currently learning ...
-Kotlin,MVVM,Sqlite,Android jetpack libraries etc...
-- 💞️ I’m looking to collaborate on ...
+Creating android applications better than before.
+
 - 📫 How to reach me ...
 tolgakurucay1446@gmail.com
 +905347834200
+
+-I have an application on play store and developing another one;
+play.google.com/store/apps/details?id=com.tolgakurucay.cryptotolga
+
+
+
+
 
 <!---
 tolgakurucay/tolgakurucay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
